@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">book.ed</string>
+    <string name="username">username</string>
+    <string name="enter_password_here">enter password here</string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_in_here">sign in here</string>
+    <string name="password">password</string>
+    <string name="remember_me">remember me</string>
+    <string name="booked_logo">booked logo</string>
+    <string name="buy">buy</string>
+    <string name="book_ed">Book.Ed</string>
+    <string name="cart">cart</string>
+    <string name="help">help</string>
+    <string name="file">file</string>
+    <string name="create_new">create_new</string>
+    <string name="open">open</string>
+    <string name="name_of_book">name of book</string>
+    <string name="isbn_number">isbn number</string>
+
+
+</resources>
